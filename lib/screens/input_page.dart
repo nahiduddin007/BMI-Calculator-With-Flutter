@@ -23,7 +23,7 @@ class _InputPageState extends State<InputPage> {
   Gender selectedGender;
 
   int height = 180;
-  double minHeight = 120;
+  double minHeight = 110;
   double maxHeight = 220;
 
   int weight = 60;
